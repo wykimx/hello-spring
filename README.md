@@ -26,3 +26,20 @@ markdown...
 -----------------
 ## git/github
 
+-----------------
+## intellij
+
+--------------------
+## mac
+
+
+
+--------------
+## 기타
+- jdbc:h2:~/test -> jdbc:h2:tcp://localhost/~/test
+- 
+
+
+
+
+
