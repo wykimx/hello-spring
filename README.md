@@ -1,45 +1,11 @@
-# 공부시작점
-- 인강으로 스프링부트로 스프링 기본 학습
-- 이 문서를 작성하면서 markdown 작성요령 학습
-- github 연동으로 git, github 사용법 학습
---------------------------
-## 인강
-- 인프런 듣고 있고 수업 흐름은 아래입니다. java8, 11문법 깔고..
-  - Spring(Spring Boot) 
-  - JPA 
-  - Spring Data JPA
-  - Querydsl
-- 이후 nodejs, react 등 생각중이고
-- 그 담은 잘 모르겠네요.
------------------------
-## markdown
-```
-markdown...
-```
->이건 뭔가요
->같은 탭인가
->>하나 더
->>>둘 더
+## 인프런 강의 프로젝트
+>스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술
+### 강의메모
+- h2
+  - 위치 
+    - win : C:\Program Files (x86)\H2\bin
+    - mac : 
+  - jdbc:h2:~/test -> jdbc:h2:tcp://localhost/~/test- 
 
-
-
------------------
-## git/github
-
------------------
-## intellij
-
---------------------
-## mac
-
-
-
---------------
-## 기타
-- jdbc:h2:~/test -> jdbc:h2:tcp://localhost/~/test
-- 
-
-
-
-
-
+### 강의 후기
+- 초라한 실력 스프링을 더 공부하기로 했습니다.
