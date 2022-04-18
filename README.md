@@ -5,7 +5,8 @@
   - 위치 
     - win : C:\Program Files (x86)\H2\bin
     - mac : 
-  - jdbc:h2:~/test -> jdbc:h2:tcp://localhost/~/test- 
+  - jdbc:h2:~/test 
+    -> jdbc:h2:tcp://localhost/~/test- 
 
 ### 강의 후기
 - 스프링을 써온게 맞나 싶을 정도로 처참.. 공부가 필요하다는걸 느꼈고
